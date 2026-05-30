@@ -1,9 +1,9 @@
 
 
-Power BI Hospital Patient Experience & Operational Performance 
+                                   Power BI Hospital Patient Experience & Operational Performance 
 
 CONTEXT
- Healthcare organizations generate massive amounts of patient data every day, but raw data alone provides limited value. This project focuses on analyzing patient experience and operational efficiency to uncover actionable insights. Using Excel and Power BI, the raw hospital dataset was cleaned and transformed into an interactive Hospital Patient Experience and Operational Performance Dashboard to help administrators improve patient satisfaction, reduce wait times, and optimize resource allocation.
+Healthcare organizations generate massive amounts of patient data every day, but raw data alone provides limited value. This project focuses on analyzing patient experience and operational efficiency to uncover actionable insights. Using Excel and Power BI, the raw hospital dataset was cleaned and transformed into an interactive Hospital Patient Experience and Operational Performance Dashboard to help administrators improve patient satisfaction, reduce wait times, and optimize resource allocation.
 DATASET INFORMATION 
 Dataset: Hospital Patient Experience Dataset Source: Kaggle Records Analyzed: 9,216 patients Key Dimensions: Demographics (age, race, gender), Appointment Type, Department Referral, Wait Time, Satisfaction Score, and Visit Trends (2019–2020)
 OBJECTIVE
