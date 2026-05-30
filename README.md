@@ -27,6 +27,7 @@ PROJECT WORKFLOW
  • Conducted in-depth analysis and developed strategic recommendations
 
 DASHBOARD OVERVIEW
+
 KEY PERFORMANCE INDICATORS (KPIs)
 KPI	Value
 Total Patients	9,216
