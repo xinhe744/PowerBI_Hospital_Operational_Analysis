@@ -43,6 +43,13 @@ KEY INSIGHTS
 • Satisfaction vs Wait Time Correlation: Lower wait times are strongly associated with higher satisfaction scores, as clearly shown in the heatmap.
 • Demographic Imbalance: High volume of walk-in patients (58.6%) and adults drives most of the operational load.
 
+<img width="800" height="374" alt="hospital 1a" src="https://github.com/user-attachments/assets/6a2b7f5e-3f4d-48f4-8d57-0fd2bd75afe7" />
+<img width="671" height="368" alt="hospital 2a" src="https://github.com/user-attachments/assets/5a2f0246-226c-45e8-90df-aba1b6404ff1" />
+<img width="670" height="369" alt="hospital 3" src="https://github.com/user-attachments/assets/d31a7c51-a44c-404c-9cc1-02c7707ec408" />
+<img width="673" height="383" alt="hospital 4" src="https://github.com/user-attachments/assets/80197e16-2dbc-4dde-9852-e54363da6ad6" />
+<img width="687" height="370" alt="hospital 5" src="https://github.com/user-attachments/assets/2aedc53e-8bda-4c9b-aedd-48a05edb9f7f" />
+
+
 RECOMMENDATIONS
  • Reduce wait times for Adult and White patient groups through better staffing and triage during peak hours.
 • Address equity concerns by investigating lower satisfaction among African American seniors (lowest satisfaction scores).
