@@ -15,8 +15,8 @@ Dataset: Hospital Patient Experience Dataset Source: Kaggle Records Analyzed: 9,
  • Patient satisfaction levels and its relationship with wait time
  • Operational bottlenecks and peak demand periods
  • Demographic patterns in patient volume and experience 
-• Differences between walk-ins and referrals 
-• Growth trends and resource planning opportunities
+ • Differences between walk-ins and referrals 
+ • Growth trends and resource planning opportunities
 The dashboard supports data-driven decisions to enhance patient experience and operational efficiency.
 
 **TOOLS USED **
