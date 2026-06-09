@@ -37,17 +37,19 @@ PROJECT WORKFLOW ****
 **KEY PERFORMANCE INDICATORS (KPIs)**
 KPI	Value
 Total Patients	9,216
-Male / Female	51.1% / 48.7%
-Walk-In / Referrals	5,400 / 3,816
+Male 51.1% 
+Female 48.7%
+Walk-In 5,400
+Referrals	3,816
 Average Satisfaction	5.47 / 10
 Average Wait Time	35.26 minutes
 Service Not Rated	75.10%
 
 **KEY INSIGHTS **
-• Strong Weekday vs Weekend Gap: 6.6K visits occur on weekdays compared to only 2.6K on weekends, creating significant operational pressure during the week.
-• Year-over-Year Growth: Patient volume increased from 4,338 in 2019 to 4,878 in 2020 (≈12% growth), showing rising demand.
-• Satisfaction vs Wait Time Correlation: Lower wait times are strongly associated with higher satisfaction scores, as clearly shown in the heatmap.
-• Demographic Imbalance: High volume of walk-in patients (58.6%) and adults drives most of the operational load.
+•  **Strong Weekday vs Weekend Gap**:  6.6K visits occur on weekdays compared to only 2.6K on weekends, creating significant operational pressure during the week.
+•** Year-over-Year Growth**: Patient volume increased from 4,338 in 2019 to 4,878 in 2020 (≈12% growth), showing rising demand.
+• **Satisfaction vs Wait Time Correlation**: Lower wait times are strongly associated with higher satisfaction scores, as clearly shown in the heatmap.
+• **Demographic Imbalance**: High volume of walk-in patients (58.6%) and adults drives most of the operational load.
 
 <img width="800" height="374" alt="hospital 1a" src="https://github.com/user-attachments/assets/6a2b7f5e-3f4d-48f4-8d57-0fd2bd75afe7" />
 <img width="671" height="368" alt="hospital 2a" src="https://github.com/user-attachments/assets/5a2f0246-226c-45e8-90df-aba1b6404ff1" />
