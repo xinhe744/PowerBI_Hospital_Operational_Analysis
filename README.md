@@ -113,8 +113,4 @@ The dashboard reveals a growing hospital with strong adult patient volume but si
 
 This project successfully transformed raw hospital data into a professional, interactive analytics dashboard that delivers clear insights into patient experience and operational performance. It showcases strong skills in healthcare data analysis, dashboard design, and providing strategic recommendations that can drive real improvements in patient satisfaction and hospital efficiency.
 
----
 
-## 📄 License
-
-MIT — free to use, modify, and distribute.
